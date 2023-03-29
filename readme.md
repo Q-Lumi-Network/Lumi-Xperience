@@ -7,7 +7,10 @@
 <p>
 In Dec 2022, I got selected as a fellow in the Lumi IGNITE Programme; to support the nurturing of young adults (8-18) into unique problem solvers utilizing the Design Thinking Principle.
 
-In this repo I document my experience as a fellow in this program: Discussing
---The Design Thinking Methodology--
-Stay tuned!
-</p>
+In this repo I assume the persona of a Luminaire (fancy term for Lumi's young Innovators): As I work my way through building an App to solve a real-world problem (*****) using - </p>
+                                 
+<h1 align="center"> The Design Thinking Methodology </h1>
+
+<h2> Phase 1 </h2>
+
+
